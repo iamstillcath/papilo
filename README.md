@@ -1,2 +1,2 @@
-# electrical-theme-website
+# electrical-themed-website
 website created for a client
